@@ -14,6 +14,4 @@ IT undergrad @ CUSAT | HTML · CSS · JS · Node.js | 250+ DSA problems | Buildi
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=bhargavalok&icon=5&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
