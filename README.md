@@ -1,5 +1,5 @@
 # 💫 About Me:
-IT undergrad @ CUSAT | HTML · CSS · JS · Node.js | 250+ DSA problems | Building toward Full-Stack |  Open to internships
+IT undergrad @ CUSAT | WebDev | 250+ DSA problems | Building toward Full-Stack |  Open to internships
 
 
 ## 🌐 Socials:
